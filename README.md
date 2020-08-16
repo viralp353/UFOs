@@ -30,13 +30,14 @@ The website has been finished in module.For challenge, Instead of filtering by a
 
 * HTML
 
+* javascript
 
 
 ## Challenge_summary:
 
 
 
-                // This function for updatefunction 
+                // This function for update: 
          //Save the element, value, and id:
           function updateFilters(){
             const filters = {
@@ -100,5 +101,19 @@ The website has been finished in module.For challenge, Instead of filtering by a
 
 
 ![Screenshot (85)](https://user-images.githubusercontent.com/65969608/90325417-fb957b00-df40-11ea-87fe-f97bfa1fa5e6.png)
+
+
+
+
+
+## Future recommendations:
+
+* Use Mongodb for store data
+
+* Website scarping for updated website.
+
+
+
+
 
 
