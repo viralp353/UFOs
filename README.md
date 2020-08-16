@@ -77,7 +77,8 @@ The website has been finished in module.For challenge, Instead of filtering by a
  
  
  
- ![Screenshot (82)](https://user-images.githubusercontent.com/65969608/90325379-8c1f8b80-df40-11ea-9063-be837611c240.png)
+![Screenshot (82)](https://user-images.githubusercontent.com/65969608/90325433-37304500-df41-11ea-98b4-1b30d5526024.png)
+
 
 
 
@@ -88,7 +89,13 @@ The website has been finished in module.For challenge, Instead of filtering by a
 
 
 
+
+
 ![Screenshot (84)](https://user-images.githubusercontent.com/65969608/90325392-aa858700-df40-11ea-9178-5f0e26bc0226.png)
+
+
+
+
 
 
 
