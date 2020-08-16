@@ -106,11 +106,13 @@ The website has been finished in module.For challenge, Instead of filtering by a
 
 
 
-## Future recommendations:
+## Future Recommendations:
 
-* Use Mongodb for store data
+*   Use Mongodb.
 
-* Website scarping for updated website.
+*  USe Website scarping for updated website.
+
+* Add Locations with some pictures.
 
 
 
