@@ -110,7 +110,7 @@ The website has been finished in module.For challenge, Instead of filtering by a
 
 *   Use Mongodb.
 
-*  USe Website scarping for updated website.
+*  Use  scraping for live update website.
 
 * Add Locations with some pictures.
 
